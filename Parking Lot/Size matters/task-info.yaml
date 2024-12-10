@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/parking/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/ParkingTest.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6600#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 05 Dec 2024 11:55:44 UTC"
+record: 4
